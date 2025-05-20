@@ -42,15 +42,6 @@ This repository contains the data exploration, cleaning, and visualization proce
 
 ---
 
-## 🔧 Tools & Technologies
-
-- **Python** (pandas, seaborn, matplotlib)
-- **Jupyter Notebooks**
-- **SQL** for preprocessing and query-based summaries
-- **Data visualization libraries** for exploratory analysis
-
----
-
 ## ✅ Outcome
 
 The findings of this analysis helped TKH determine that Bango met several key indicators of a healthy, equitable, and productive workplace. The data-driven approach ensured transparency and integrity in the award evaluation process.
