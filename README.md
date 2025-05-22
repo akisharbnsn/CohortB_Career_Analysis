@@ -28,7 +28,7 @@ This repository contains the data exploration, cleaning, and visualization proce
 ### Performance Review Practices
 - How do absenteeism and lateness impact performance scores across departments?
 
-- Summary:
+- Summary: Analyzed how absenteeism and lateness impact employee performance across departments. The dataset was first cleaned through EDA and ensured overall data quality. Univariate and bivariate analyses were performed to explore the distribution and relationships between key variables like absences, lateness, and performance scores. The data was then grouped by department and performance score to calculate and visualize average attendance patterns. The analysis revealed that lower performing employees had consistently higher absences and lateness across departments. In contrast, high performing employees showed strong attendance and punctuality. These findings highlight absenteeism and lateness as important behavioral indicators of performance. As a next step, companies are encouraged to monitor attendance patterns regularly and use them to identify and support employees at risk of performance decline.
 
 
 ### Compensation Equality
