@@ -11,6 +11,7 @@ The analysis focuses on four award criteria:
 - **Overall Employee Satisfaction**
 
 This repository contains the data exploration, cleaning, and visualization process used to help the TKH board determine Bango’s eligibility to advance in the competition.
+
 ---
 ## Key Analytical Questions & Categories
 
@@ -41,8 +42,7 @@ This repository contains the data exploration, cleaning, and visualization proce
 - Summary:
 
 ### Employee Satisfaction
-- What departments or managers have the highest levels of employee satisfaction?
-- Is employee satisfaction associated with turnover?
+- Which departments or managers have the highest employee satisfaction, and is this low satisfaction scores linked to employees' reasons for leaving?
 
 - Summary:
 ---
