@@ -23,7 +23,7 @@ This repository contains the data exploration, cleaning, and visualization proce
   - Tenure
   - Performance score
 
-- Summary: 
+- Summary: This notebook focuses on how recruitment sources, termination reasons, and performance patterns impact employee retention and satisfaction. Through this analysis Bango was able to conclude that the company website had the highest retention rate, while hires from search engines -Google- showed the highest termination rate. This highlighted the importance of the company's continued initiatives of targeted and intentional recruitment strategies. Bango also wanted to explore why terminated (voluntary or involuntary) employees left the company, and the role that employee satisfaction and performance scores impacted those decisions. The data reveals that most employees who left for another opportunity were ironically top performers with high company satisfaction scores. This suggested that while dissatisfaction is typically considered a primary reason for employees leaving, it was not the case for Bango, suggesting there was limited growth opportunities instead. As a next step, Bango is encouraged to refine hiring sources and support upward mobility in career development. 
 
 ### Performance Review Practices
 - How do absenteeism and lateness impact performance scores across departments?
