@@ -44,7 +44,7 @@ This repository contains the data exploration, cleaning, and visualization proce
 ### Employee Satisfaction
 - Which departments or managers have the highest employee satisfaction, and is this low satisfaction scores linked to employees' reasons for leaving?
 
-- Summary: The Software Engineering and Sales departments have the highest employee satisfaction scores (4.09 and 4.03, respectively). Janet King received the highest manager ratings in 2 out of 5 departments, including a perfect score in the Executive Office, though her ratings were based on only one employee per department.   Employee satisfaction is not evenly balanced across the departments, with noticeable differences by department and manager. However, current and terminated employees reported nearly identical satisfaction scores (3.88 vs. 3.89), suggesting that satisfaction may not be a key driver of turnover at Bango. The company had an overall employee satisfaction score of 3.89 out of 5.
+- Summary: The company had an overall employee satisfaction score of 3.89 out of 5. The Software Engineering and Sales departments have the highest employee satisfaction scores (4.09 and 4.03, respectively). Janet King received the highest manager ratings in 2 out of 5 departments, including a perfect score in the Executive Office, though her ratings were based on only one employee per department.   Employee satisfaction is not evenly balanced across the departments, with noticeable differences by department and manager. However, current and terminated employees reported nearly identical satisfaction scores (3.88 vs. 3.89), suggesting that satisfaction may not be a key driver of turnover at Bango. 
 ---
 
 ## Outcome & Next Steps
