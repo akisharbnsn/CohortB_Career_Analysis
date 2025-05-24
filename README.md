@@ -39,7 +39,7 @@ This repository contains the data exploration, cleaning, and visualization proce
   - Gender
 - Are there instances of salary discrimination between genders who work in the same department?
 
-- Summary:
+- Summary: This analysis explores if there are any disparities in Compensation within Bango analyzing gender, race, martial status, salary across the departments.  This analysis doesn’t suggest that salary disparities exist across gender and race. Although we will need more information to conduct a deeper analysis to truly assess if there are any salary disparities within race, gender and marital status to ensure pay equity. This dataset was able to depict there are more females that work for Bango than males and there are more single people than married people. The average salary difference between males and females differ in the various departments. 
 
 ### Employee Satisfaction
 - Which departments or managers have the highest employee satisfaction, and is this low satisfaction scores linked to employees' reasons for leaving?
