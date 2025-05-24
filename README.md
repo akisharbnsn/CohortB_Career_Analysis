@@ -23,7 +23,7 @@ This repository contains the data exploration, cleaning, and visualization proce
   - Tenure
   - Performance score
 
-- Summary: This notebook focuses on how recruitment sources, termination reasons, and performance patterns impact employee retention and satisfaction. Through this analysis Bango was able to conclude that the company website had the highest retention rate, while hires from search engines -Google- showed the highest termination rate. This highlighted the importance of the company's continued initiatives of targeted and intentional recruitment strategies. Bango also wanted to explore why terminated (voluntary or involuntary) employees left the company, and the role that employee satisfaction and performance scores impacted those decisions. The data reveals that most employees who left for another opportunity were ironically top performers with high company satisfaction scores. This suggested that while dissatisfaction is typically considered a primary reason for employees leaving, it was not the case for Bango, suggesting there was limited growth opportunities instead. As a next step, Bango is encouraged to refine hiring sources and support upward mobility in career development. 
+- Summary: This notebook focuses on how recruitment sources, termination reasons, and performance patterns impact employee retention and satisfaction. This analysis concluded that the company website had the highest retention rate, while hires from search engines -Google- showed the highest termination rate. This highlighted the importance of the company's continued initiatives of targeted and intentional recruitment strategies. The analytical questions also wanted to explore why terminated (voluntary or involuntary) employees left the company, and the role that employee satisfaction and performance scores impacted those decisions. The data reveals that most employees who left for another opportunity were ironically top performers with high company satisfaction scores. This suggested that while dissatisfaction is typically considered a primary reason for employees leaving, it was not the case for Bango, suggesting there was limited growth opportunities instead. As a next step, Bango is encouraged to refine hiring sources and support upward mobility in career development. 
 
 ### Performance Review Practices
 - How do absenteeism and lateness impact performance scores across departments?
@@ -39,12 +39,12 @@ This repository contains the data exploration, cleaning, and visualization proce
   - Gender
 - Are there instances of salary discrimination between genders who work in the same department?
 
-- Summary:
+- Summary: This analysis explores if there are any disparities in Compensation within Bango analyzing gender, race, martial status, salary across the departments.  This analysis doesn’t suggest that salary disparities exist across gender and race. Although we will need more information to conduct a deeper analysis to truly assess if there are any salary disparities within race, gender and marital status to ensure pay equity. This dataset was able to depict there are more females that work for Bango than males and there are more single people than married people. The average salary difference between males and females differ in the various departments. 
 
 ### Employee Satisfaction
 - Which departments or managers have the highest employee satisfaction, and is this low satisfaction scores linked to employees' reasons for leaving?
 
-- Summary:
+- Summary: The company had an overall employee satisfaction score of 3.89 out of 5. The Software Engineering and Sales departments have the highest employee satisfaction scores (4.09 and 4.03, respectively). Janet King received the highest manager ratings in 2 out of 5 departments, including a perfect score in the Executive Office, though her ratings were based on only one employee per department.   Employee satisfaction is not evenly balanced across the departments, with noticeable differences by department and manager. However, current and terminated employees reported nearly identical satisfaction scores (3.88 vs. 3.89), suggesting that satisfaction may not be a key driver of turnover at Bango. 
 ---
 
 ## Outcome & Next Steps
